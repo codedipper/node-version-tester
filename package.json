@@ -1,6 +1,6 @@
 {
 	"name": "node-version-tester",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Test Node versions.",
 	"repository": "codedipper/node-version-tester",
 	"license": "MIT"
